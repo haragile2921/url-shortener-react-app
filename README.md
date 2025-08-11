@@ -15,9 +15,8 @@ A simple React frontend for the Spring Boot URL Shortener backend.
 ### 1. Clone the repo
 ```bash
 git clone [<your-repo-url>](https://github.com/haragile2921/url-shortener-react-app.git)
-cd frontend
 
 For local testing:
-• =http://localhost:3000
+• http://localhost:3000
 
 npm start   
