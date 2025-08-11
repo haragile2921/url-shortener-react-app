@@ -20,3 +20,8 @@ For local testing:
 • http://localhost:3000
 
 npm start   
+
+
+## Output
+
+<img width="1908" height="757" alt="image" src="https://github.com/user-attachments/assets/aabe7b4b-48bb-4e51-aea9-d5eb3b379f85" />
